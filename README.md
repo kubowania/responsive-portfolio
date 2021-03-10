@@ -7,20 +7,18 @@ This video is perfect for those looking to learn/improve their CSS and HTML skil
 At the end we deploy the site to a .com website so you can share it with your friends. Hostinger have kindly given a 10% discount to sign up to anyone who watches this video with packages starting from 99p a month.  To get 10% off on Hostinger use code ANIAKUBOW on this link here: https://www.hostinger.com/aniakubow
 
 Video content:
-00:00: Introduction
-03:52: Getting our .com domain
-05:43: File Setup
-09:18: Website layout in HTML
-15:41: Making a Nav bar
-20:31: Making a 'Hero' Section
-48:20: Making an 'About Me' Section
-55:52: Making a 'Projects' Section
-01:08:35: Using Anchor Links
-01:12:57: Using media query for tailored views on mobile, tablet and desktop
-01:14:50: Making a Hamburger drop-down menu
-01:23:55: Deploying our website onto the internet with SSL
-
-____
+* 00:00: Introduction
+* 03:52: Getting our .com domain
+* 05:43: File Setup
+* 09:18: Website layout in HTML
+* 15:41: Making a Nav bar
+* 20:31: Making a 'Hero' Section
+* 48:20: Making an 'About Me' Section
+* 55:52: Making a 'Projects' Section
+* 01:08:35: Using Anchor Links
+* 01:12:57: Using media query for tailored views on mobile, tablet and desktop
+* 01:14:50: Making a Hamburger drop-down menu
+* 01:23:55: Deploying our website onto the internet with SSL
 
 Other links:
 In this video I use Tabnine as my A.I autocompletion tool. You can download it for free here: http://bit.ly/tabnine-free
