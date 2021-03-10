@@ -119,6 +119,7 @@ p {
 .headshot {
     width: 300px;
     border-radius: 150px;
+    margin-left: 80px;
 }
 
 .headshot-container {
