@@ -132,6 +132,10 @@ p {
     height: 500px;
     box-shadow: 5px 5px 20px rgb(197, 195, 195);
     margin: 10px;
+    transition: all 0.3s;
+}
+.project-card:hover{
+    transform:scale(1.1);
 }
 
 .project-container {
